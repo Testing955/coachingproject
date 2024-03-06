@@ -50,7 +50,7 @@ try
 }
 catch(Exception e)
 {
-System.out.println("ignore");
+System.out.println("ignore mouse");
 }
 
 
